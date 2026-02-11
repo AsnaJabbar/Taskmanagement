@@ -78,5 +78,4 @@ A multi-user Laravel-based task management system with role-based access control
 - `resources/views/layouts/app.blade.php`: Main layout with SweetAlert2 handlers.
 - `resources/views/tasks/`: Blade templates for the task management UI.
 
-## 📝 License
-MIT License
+
